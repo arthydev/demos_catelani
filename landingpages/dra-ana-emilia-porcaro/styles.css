@@ -35,4 +35,15 @@
 .photo-tile{height:auto;aspect-ratio:1}.photo-tile:focus-visible,.gallery-close:focus-visible{outline:2px solid currentColor;outline-offset:3px}
 
 @media(max-width:680px){.photo-grid{grid-template-columns:1fr}}
+
+/* Tipografia da hero */
+.hero .hero-copy .eyebrow{font-size:11px;letter-spacing:.2em}
+.hero .hero-copy h1{font:normal clamp(54px,6.3vw,84px)/1.02 Georgia,"Times New Roman",serif;letter-spacing:-.055em;margin:27px 0 22px;max-width:650px}
+.hero .hero-copy .hero-description{font-size:18px;line-height:1.7;max-width:440px}
+.hero .hero-actions .button{min-height:56px;padding:0 23px;font-size:13px}
+.hero .hero-actions .text-link{font-size:13px}
+.hero .trust-row{margin-top:32px;gap:12px;font-size:12px}
+.hero .rating-card strong{font-size:22px}
+.hero .rating-card small{font-size:11px}
+@media(max-width:680px){.hero .hero-copy h1{font-size:clamp(46px,12vw,58px);margin:20px 0 16px}.hero .hero-copy .hero-description{font-size:16px;line-height:1.7}.hero .hero-actions .button{font-size:13px}.hero .trust-row{margin-top:24px;font-size:11px}}
 .prototype-banner{padding:8px 6%;background:#eef1f8;border-bottom:1px solid var(--line);text-align:center;color:#64738a;font-size:8px;letter-spacing:.14em;text-transform:uppercase}

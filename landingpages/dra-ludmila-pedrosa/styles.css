@@ -22,3 +22,14 @@
 
 @media(max-width:680px){.photo-grid{grid-template-columns:1fr}}
 .prototype-banner{padding:8px 6%;background:#eee8dd;border-bottom:1px solid var(--line);text-align:center;color:#78756e;font-size:8px;letter-spacing:.14em;text-transform:uppercase}
+
+
+/* Inline Heroicons */
+.icon-inline{width:1em;height:1em;display:inline-block;flex:0 0 auto;vertical-align:-.15em}
+.stars,.rating-stars{display:inline-flex;align-items:center;gap:.16em;letter-spacing:0;white-space:nowrap}
+.service-icon{width:46px;height:46px;display:flex;align-items:center;justify-content:center}
+.service-icon .icon-inline{width:1em;height:1em}
+.card-symbol,.brand-symbol{display:inline-flex;align-items:center;justify-content:center}
+.card-symbol .icon-inline,.brand-symbol .icon-inline{width:1em;height:1em}
+.gallery-close{display:grid;place-items:center}
+.gallery-close .icon-inline{width:24px;height:24px}

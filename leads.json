@@ -1,0 +1,1202 @@
+[
+  {
+    "name": "Dra. Mayra Lino",
+    "company": "Clínica Dra. Mayra Lino",
+    "category": "Clínica de dermatologia",
+    "city": "Contagem",
+    "state": "Minas Gerais",
+    "google_maps_url": "https://www.google.com/maps/search/Cl%C3%ADnica+Dra.+Mayra+Lino+Contagem+MG",
+    "google_rating": 5.0,
+    "google_reviews_count": 89,
+    "website": null,
+    "instagram": "https://www.instagram.com/dramayralino/",
+    "linkedin": null,
+    "public_phone": "+55 31 98382-5657",
+    "public_email": null,
+    "whatsapp": "+55 31 98382-5657",
+    "website_analysis": {
+      "has_website": false,
+      "first_fold_quality": "Sem site próprio. O Maps aponta para o Instagram; o Linktree público oferece agendamento pelo WhatsApp.",
+      "clear_value_proposition": false,
+      "authority_signals": false,
+      "services_or_procedures_visible": false,
+      "social_proof": false,
+      "clear_cta": false,
+      "whatsapp_cta": false,
+      "online_booking": false,
+      "mobile_friendly": null,
+      "performance_notes": "Não se aplica a site próprio; não foram medidas métricas de performance.",
+      "local_seo_signals": false
+    },
+    "opportunities": [
+      "O Google Maps não apresenta domínio próprio; a rota digital começa no Instagram.",
+      "O Linktree oferece contato por WhatsApp, sem calendário de horários ou agendamento autônomo.",
+      "Não há uma página própria observada para reunir serviços, credenciais, avaliações e informações locais."
+    ],
+    "score": 9,
+    "score_reasons": [
+      "+5 ausência de site próprio",
+      "+2 ausência de agendamento por calendário; o Linktree leva ao WhatsApp",
+      "+2 presença forte no Maps em relação à falta de site próprio: 5,0 em 89 avaliações"
+    ],
+    "evidence": [
+      {
+        "type": "google_maps",
+        "url": "https://www.google.com/maps/search/Cl%C3%ADnica+Dra.+Mayra+Lino+Contagem+MG",
+        "observation": "Perfil da clínica em Contagem com nota 5,0, 89 avaliações, telefone público e Instagram listado como site."
+      },
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/dramayralino/",
+        "observation": "Perfil público @dramayralino exibe CRM-MG 73535, Contagem, 463 publicações, cerca de 3,2 mil seguidores e link para Linktree."
+      },
+      {
+        "type": "linktree",
+        "url": "https://linktr.ee/dramayralino",
+        "observation": "A página pública tem convite para agendar e um único caminho de contato: WhatsApp do consultório."
+      }
+    ],
+    "confidence": "high",
+    "top_problems": [
+      {
+        "problem": "Não há site próprio ligado ao perfil do Maps; a descoberta segue para o Instagram.",
+        "evidence": "O Maps lista instagram.com/dramayralino/ como site; o Linktree público só apresenta WhatsApp.",
+        "commercial_angle": "Uma página própria pode receber o tráfego de busca, explicar serviços e credenciais e encaminhar o paciente ao contato."
+      },
+      {
+        "problem": "O agendamento depende de conversa no WhatsApp, sem calendário público.",
+        "evidence": "O Linktree apresenta o link de WhatsApp como ação de agendamento.",
+        "commercial_angle": "Um fluxo de agendamento em etapas claras pode reduzir a quantidade de passos entre intenção e pedido de horário."
+      },
+      {
+        "problem": "Não há página própria observável com serviços, avaliações e localização.",
+        "evidence": "O destino público é o perfil do Instagram e um Linktree; os detalhes comerciais permanecem nesses canais.",
+        "commercial_angle": "O site pode centralizar as informações que hoje estão divididas entre Maps, Instagram e WhatsApp."
+      }
+    ]
+  },
+  {
+    "name": "Dra. Ana Emília Porcaro",
+    "company": "Consultório Dra. Ana Emília Porcaro",
+    "category": "Dermatologista",
+    "city": "Nova Lima",
+    "state": "Minas Gerais",
+    "google_maps_url": "https://www.google.com/maps/search/Dra.+Ana+Em%C3%ADlia+Porcaro+Nova+Lima+MG",
+    "google_rating": 5.0,
+    "google_reviews_count": 34,
+    "website": null,
+    "instagram": "https://www.instagram.com/dra.anaemiliaporcaro/",
+    "linkedin": null,
+    "public_phone": "+55 31 97360-7487",
+    "public_email": null,
+    "whatsapp": "+55 31 97360-7487",
+    "website_analysis": {
+      "has_website": false,
+      "first_fold_quality": "Sem site próprio. Instagram e Linktree públicos apresentam perfil profissional, localização e contato por WhatsApp.",
+      "clear_value_proposition": false,
+      "authority_signals": false,
+      "services_or_procedures_visible": false,
+      "social_proof": false,
+      "clear_cta": false,
+      "whatsapp_cta": false,
+      "online_booking": false,
+      "mobile_friendly": null,
+      "performance_notes": "Não se aplica a site próprio; não foram medidas métricas de performance.",
+      "local_seo_signals": false
+    },
+    "opportunities": [
+      "O Maps aponta para Instagram, sem domínio próprio identificado.",
+      "O Linktree direciona a um WhatsApp de agendamento; não há calendário de horários.",
+      "Não foi encontrada página própria para serviços, dúvidas frequentes, localização e prova social."
+    ],
+    "score": 9,
+    "score_reasons": [
+      "+5 ausência de site próprio",
+      "+2 ausência de agendamento por calendário; a rota pública leva ao WhatsApp",
+      "+2 presença estabelecida: 5,0 em 34 avaliações no Maps e perfil público com cerca de 3,6 mil seguidores"
+    ],
+    "evidence": [
+      {
+        "type": "google_maps",
+        "url": "https://www.google.com/maps/search/Dra.+Ana+Em%C3%ADlia+Porcaro+Nova+Lima+MG",
+        "observation": "Perfil em Nova Lima com nota 5,0, 34 avaliações, telefone público e Instagram listado como site."
+      },
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/dra.anaemiliaporcaro/",
+        "observation": "Perfil público identifica a Dra. Ana Emília Porcaro como dermatologista, informa CRM/RQE, endereço em Nova Lima, telefone e Linktree."
+      },
+      {
+        "type": "linktree",
+        "url": "https://linktr.ee/dra.anaporcaro",
+        "observation": "A página oferece link de agendamento pelo WhatsApp, sem calendário público."
+      }
+    ],
+    "confidence": "high",
+    "top_problems": [
+      {
+        "problem": "Não há domínio próprio; o Maps e o perfil profissional conduzem ao Instagram/Linktree.",
+        "evidence": "O Maps lista Instagram; o Linktree contém um caminho de WhatsApp, sem site institucional.",
+        "commercial_angle": "Uma landing page própria pode converter buscas locais e apresentar tratamentos, credenciais e endereço em uma rota única."
+      },
+      {
+        "problem": "O agendamento é iniciado por mensagem, sem disponibilidade consultável.",
+        "evidence": "O botão público do Linktree abre o WhatsApp.",
+        "commercial_angle": "Um calendário ou formulário de pré-agendamento pode qualificar o pedido antes da conversa."
+      },
+      {
+        "problem": "Serviços e informações locais estão distribuídos entre bio e publicações.",
+        "evidence": "A bio lista clínica, estética, tricologia e laser; não há uma página própria de serviço ligada ao Maps.",
+        "commercial_angle": "Páginas locais por serviço podem dar contexto ao paciente antes de pedir o horário."
+      }
+    ]
+  },
+  {
+    "name": "Dra. Maisa Malheiros",
+    "company": "Bhiolife Medicina Integrada",
+    "category": "Dermatologista e tricologista",
+    "city": "Belo Horizonte",
+    "state": "Minas Gerais",
+    "google_maps_url": "https://www.google.com/maps/search/Dra.+Maisa+Malheiros+Belo+Horizonte+MG",
+    "google_rating": 5.0,
+    "google_reviews_count": 84,
+    "website": "https://www.doctoralia.com.br/maisa-malheiros-2/dermatologista/belo-horizonte",
+    "instagram": null,
+    "linkedin": null,
+    "public_phone": "+55 31 3273-7489",
+    "public_email": null,
+    "whatsapp": null,
+    "website_analysis": {
+      "has_website": true,
+      "first_fold_quality": "O destino do Maps é um perfil Doctoralia, com especialidade, CRM/RQE, serviços, avaliações e endereço; não foi localizado site próprio.",
+      "clear_value_proposition": true,
+      "authority_signals": true,
+      "services_or_procedures_visible": true,
+      "social_proof": true,
+      "clear_cta": false,
+      "whatsapp_cta": false,
+      "online_booking": false,
+      "mobile_friendly": null,
+      "performance_notes": "Perfil Doctoralia carregou; não foram medidas métricas de performance.",
+      "local_seo_signals": true
+    },
+    "opportunities": [
+      "A presença web ligada ao Maps é um perfil de diretório, sem domínio próprio.",
+      "Doctoralia informa que não há agendamento online disponível neste endereço.",
+      "O perfil tem conteúdo e avaliações, mas páginas próprias de serviço e busca local ficam sob controle do diretório."
+    ],
+    "score": 9,
+    "score_reasons": [
+      "+5 ausência de site próprio; o Maps aponta para um perfil Doctoralia",
+      "+2 Doctoralia informa que este endereço não oferece agendamento online",
+      "+2 presença forte no Maps em relação à ausência de site próprio: 5,0 em 84 avaliações"
+    ],
+    "evidence": [
+      {
+        "type": "google_maps",
+        "url": "https://www.google.com/maps/search/Dra.+Maisa+Malheiros+Belo+Horizonte+MG",
+        "observation": "Perfil de dermatologista em Belo Horizonte com nota 5,0, 84 avaliações, telefone e Doctoralia como destino web."
+      },
+      {
+        "type": "doctoralia",
+        "url": "https://www.doctoralia.com.br/maisa-malheiros-2/dermatologista/belo-horizonte",
+        "observation": "Perfil mostra CRM-MG 69303/RQE 45150, serviços, 185 opiniões e declara: este especialista não oferece agendamento online neste endereço."
+      }
+    ],
+    "confidence": "high",
+    "top_problems": [
+      {
+        "problem": "O Maps direciona a um perfil Doctoralia, sem site próprio.",
+        "evidence": "O campo Website do Maps é o perfil Doctoralia da Dra. Maisa.",
+        "commercial_angle": "Um site próprio pode construir uma jornada de marca e páginas locais, mantendo Doctoralia como opção complementar."
+      },
+      {
+        "problem": "O endereço listado não oferece agendamento online.",
+        "evidence": "A página Doctoralia declara que não há agendamento online naquele endereço.",
+        "commercial_angle": "Um fluxo de solicitação de horário ou calendário integrado pode reduzir a dependência de contato manual."
+      },
+      {
+        "problem": "Serviços e 185 opiniões estão concentrados em plataforma de terceiros.",
+        "evidence": "A página Doctoralia mostra serviços, preços e avaliações, enquanto o Maps aponta para essa página.",
+        "commercial_angle": "Uma página própria pode organizar tratamentos, credenciais e avaliações verificadas em uma rota independente."
+      }
+    ]
+  },
+  {
+    "name": "Dra. Ludmila Pedrosa",
+    "company": "Clínica Ludmila Pedrosa",
+    "category": "Clínica de dermatologia",
+    "city": "Nova Lima",
+    "state": "Minas Gerais",
+    "google_maps_url": "https://www.google.com/maps/search/Cl%C3%ADnica+Ludmila+Pedrosa+Nova+Lima+MG",
+    "google_rating": 4.9,
+    "google_reviews_count": 54,
+    "website": "https://ludmilapedrosa.com.br/",
+    "instagram": "https://www.instagram.com/clinica.ludmilapedrosa/",
+    "linkedin": null,
+    "public_phone": "+55 31 3654-2163",
+    "public_email": "contato@ludmilapedrosa.com.br",
+    "whatsapp": "+55 31 3286-2834",
+    "website_analysis": {
+      "has_website": true,
+      "first_fold_quality": "A primeira tela tem imagem escurecida, contraste baixo e texto pequeno; identifica Belo Horizonte e dermatologia, com WhatsApp flutuante.",
+      "clear_value_proposition": false,
+      "authority_signals": false,
+      "services_or_procedures_visible": true,
+      "social_proof": false,
+      "clear_cta": true,
+      "whatsapp_cta": true,
+      "online_booking": false,
+      "mobile_friendly": null,
+      "performance_notes": "Não foram observados erros de carregamento; a principal limitação visível é de legibilidade e apresentação.",
+      "local_seo_signals": true
+    },
+    "opportunities": [
+      "A primeira tela tem baixo contraste e não deixa a proposta da clínica evidente.",
+      "O contato visível é WhatsApp; não foi encontrado calendário de horários.",
+      "A página apresenta procedimentos, mas não apresenta depoimentos ou avaliações em conteúdo próprio."
+    ],
+    "score": 9,
+    "score_reasons": [
+      "+3 aparência visual claramente datada e com baixa legibilidade na primeira tela",
+      "+2 ausência de calendário de agendamento online",
+      "+1 poucos sinais de autoridade individualizada na página principal",
+      "+1 ausência de prova social no site inspecionado",
+      "+2 Maps bem estabelecido em comparação com a experiência do site: 4,9 em 54 avaliações"
+    ],
+    "evidence": [
+      {
+        "type": "google_maps",
+        "url": "https://www.google.com/maps/search/Cl%C3%ADnica+Ludmila+Pedrosa+Nova+Lima+MG",
+        "observation": "Clínica de dermatologia com nota 4,9, 54 avaliações, endereço na Rua Ministro Orozimbo Nonato e telefone público."
+      },
+      {
+        "type": "website",
+        "url": "https://ludmilapedrosa.com.br/",
+        "observation": "A primeira dobra mostra a cidade e a especialidade sobre fundo escurecido, sem apresentação profissional legível; o site tem WhatsApp flutuante."
+      },
+      {
+        "type": "website",
+        "url": "https://ludmilapedrosa.com.br/",
+        "observation": "A página lista tratamentos, telefone, WhatsApp e e-mail, mas não exibe calendário de horários nem avaliações/depoimentos no conteúdo acessível."
+      }
+    ],
+    "confidence": "high",
+    "top_problems": [
+      {
+        "problem": "A primeira dobra é escura e pouco legível, com uma proposta ampla.",
+        "evidence": "Na tela inicial, o fundo escurecido domina a página e o texto de dermatologia aparece com contraste baixo.",
+        "commercial_angle": "Uma abertura mais clara pode explicar rapidamente quem atende, em que áreas e como pedir uma consulta."
+      },
+      {
+        "problem": "A rota de agendamento depende do WhatsApp, sem calendário público.",
+        "evidence": "O site apresenta WhatsApp flutuante e números de contato; não exibe seleção de horário online.",
+        "commercial_angle": "Um fluxo de agendamento com disponibilidade pode atender pacientes fora do horário da recepção."
+      },
+      {
+        "problem": "O site não apresenta avaliações ou depoimentos no conteúdo verificado, embora o Maps tenha 54 avaliações.",
+        "evidence": "A página acessível contém equipe, tratamentos e contatos; não mostra avaliações. O Maps registra 4,9/54.",
+        "commercial_angle": "Integrar avaliações públicas no site aproveita uma reputação que já aparece no Google."
+      }
+    ]
+  },
+  {
+    "name": "Dra. Luíza Teixeira",
+    "company": "Consultório Dra. Luíza Teixeira",
+    "category": "Dermatologista",
+    "city": "Belo Horizonte",
+    "state": "Minas Gerais",
+    "google_maps_url": "https://www.google.com/maps/search/Dra.+Lu%C3%ADza+Teixeira+Dermatologia+Belo+Horizonte",
+    "google_rating": 5.0,
+    "google_reviews_count": 102,
+    "website": "https://draluizadermato.com.br/",
+    "instagram": "https://www.instagram.com/luizadermato/",
+    "linkedin": null,
+    "public_phone": "+55 31 97219-7823",
+    "public_email": null,
+    "whatsapp": "+55 31 97219-7823",
+    "website_analysis": {
+      "has_website": true,
+      "first_fold_quality": "O conteúdo acessível tem proposta e link de agendamento, mas a captura visual da primeira dobra mostrou menu e retrato, sem texto de serviço ou CTA legível.",
+      "clear_value_proposition": false,
+      "authority_signals": false,
+      "services_or_procedures_visible": true,
+      "social_proof": false,
+      "clear_cta": true,
+      "whatsapp_cta": true,
+      "online_booking": false,
+      "mobile_friendly": null,
+      "performance_notes": "Não foram medidos tempos ou métricas. A primeira dobra visual não apresentou o texto/CTA que aparece na árvore de conteúdo.",
+      "local_seo_signals": false
+    },
+    "opportunities": [
+      "Na captura visual, a primeira tela prioriza uma imagem grande e não mostra claramente serviço, proposta ou agendamento.",
+      "O agendamento leva ao WhatsApp, sem calendário de horários.",
+      "O site lista tratamentos, mas não exibe prova social ou endereço local evidente na primeira página inspecionada."
+    ],
+    "score": 7,
+    "score_reasons": [
+      "+2 proposta de valor não evidente na captura da primeira dobra",
+      "+2 ausência de calendário de agendamento online; o CTA leva ao WhatsApp",
+      "+1 presença local pouco clara no conteúdo inicial do site",
+      "+2 Maps bem estabelecido em comparação com o conteúdo inicial do site: 5,0 em 102 avaliações"
+    ],
+    "evidence": [
+      {
+        "type": "google_maps",
+        "url": "https://www.google.com/maps/search/Dra.+Lu%C3%ADza+Teixeira+Dermatologia+Belo+Horizonte",
+        "observation": "Perfil de dermatologista em Belo Horizonte com nota 5,0, 102 avaliações, telefone e site próprio."
+      },
+      {
+        "type": "website",
+        "url": "https://draluizadermato.com.br/",
+        "observation": "A captura da primeira dobra exibiu navegação e uma imagem grande, sem texto/CTA legível; a árvore acessível contém o título Revele a melhor versão da sua pele e link AGENDE SUA CONSULTA."
+      },
+      {
+        "type": "website",
+        "url": "https://draluizadermato.com.br/",
+        "observation": "O site lista páginas de tratamentos e um CTA de WhatsApp; não apareceu calendário nem seção de avaliações no conteúdo inspecionado."
+      }
+    ],
+    "confidence": "high",
+    "top_problems": [
+      {
+        "problem": "A primeira dobra visual não comunica claramente a proposta nem o próximo passo.",
+        "evidence": "A captura da tela inicial mostrou navegação e retrato, sem título de serviço ou CTA legível, apesar de esses textos constarem no conteúdo acessível.",
+        "commercial_angle": "Reorganizar a abertura para exibir especialidade, benefício e agendamento na tela inicial pode reduzir a procura manual pelo botão."
+      },
+      {
+        "problem": "O agendamento depende do WhatsApp, sem horários disponíveis para seleção.",
+        "evidence": "O CTA AGENDE SUA CONSULTA abre wa.me; não foi encontrado calendário no site.",
+        "commercial_angle": "Um calendário integrado ou pedido de horário estruturado pode encurtar o contato inicial."
+      },
+      {
+        "problem": "A página inicial não apresenta endereço ou avaliações no conteúdo verificado.",
+        "evidence": "O site mostra páginas de tratamentos e links de contato, mas nenhum depoimento ou endereço legível na página inicial acessível.",
+        "commercial_angle": "Exibir localização e avaliações do Maps ajuda a transformar reputação local em confiança no site."
+      }
+    ]
+  },
+  {
+    "name": "Dra. Érica Vieira",
+    "company": "Consultório Dra. Érica Vieira",
+    "category": "Dermatologista",
+    "city": "Nova Lima",
+    "state": "Minas Gerais",
+    "google_maps_url": "https://www.google.com/maps/search/Dermatologista+%C3%89rica+Vieira+Nova+Lima",
+    "google_rating": 5.0,
+    "google_reviews_count": 28,
+    "website": null,
+    "instagram": null,
+    "linkedin": null,
+    "public_phone": "+55 31 3694-5900",
+    "public_email": null,
+    "whatsapp": "+55 31 98915-0000",
+    "website_analysis": {
+      "has_website": false,
+      "first_fold_quality": "Sem site próprio verificado; o campo Website do Maps abre uma conversa de WhatsApp.",
+      "clear_value_proposition": false,
+      "authority_signals": false,
+      "services_or_procedures_visible": false,
+      "social_proof": false,
+      "clear_cta": false,
+      "whatsapp_cta": false,
+      "online_booking": false,
+      "mobile_friendly": null,
+      "performance_notes": "Não se aplica a site próprio; não foram medidas métricas de performance.",
+      "local_seo_signals": false
+    },
+    "opportunities": [
+      "O Maps não oferece site próprio; o link externo abre WhatsApp.",
+      "Não há página observada para detalhar serviços, credenciais e localização.",
+      "A marca depende do perfil do Maps e de atendimento por mensagem."
+    ],
+    "score": 7,
+    "score_reasons": [
+      "+5 ausência de site próprio",
+      "+2 ausência de calendário de agendamento; o contato público é por WhatsApp"
+    ],
+    "evidence": [
+      {
+        "type": "google_maps",
+        "url": "https://www.google.com/maps/search/Dermatologista+%C3%89rica+Vieira+Nova+Lima",
+        "observation": "Perfil de dermatologista em Nova Lima com nota 5,0, 28 avaliações, telefone e link Website para WhatsApp."
+      },
+      {
+        "type": "whatsapp",
+        "url": "https://api.whatsapp.com/send?phone=5531989150000&text=Quero%20uma%20consulta%20com%20a%20Dra%20%C3%89rica%20Vieira",
+        "observation": "O link público do Maps inicia mensagem de consulta para a Dra. Érica Vieira."
+      }
+    ],
+    "confidence": "medium"
+  },
+  {
+    "name": "Dra. Camila Jaconi",
+    "company": "Dermatológica Medicina Estética",
+    "category": "Dermatologista",
+    "city": "Contagem",
+    "state": "Minas Gerais",
+    "google_maps_url": "https://www.google.com/maps/search/Dermatol%C3%B3gica+Medicina+Est%C3%A9tica+Contagem",
+    "google_rating": 4.9,
+    "google_reviews_count": 25,
+    "website": null,
+    "instagram": "https://www.instagram.com/dermatologicaestetica/",
+    "linkedin": null,
+    "public_phone": "+55 31 99680-3908",
+    "public_email": null,
+    "whatsapp": "+55 31 99680-3908",
+    "website_analysis": {
+      "has_website": false,
+      "first_fold_quality": "Sem site próprio. O Instagram público descreve serviços, região atendida e contato por WhatsApp.",
+      "clear_value_proposition": false,
+      "authority_signals": false,
+      "services_or_procedures_visible": false,
+      "social_proof": false,
+      "clear_cta": false,
+      "whatsapp_cta": false,
+      "online_booking": false,
+      "mobile_friendly": null,
+      "performance_notes": "Não se aplica a site próprio; não foram medidas métricas de performance.",
+      "local_seo_signals": false
+    },
+    "opportunities": [
+      "O Maps aponta para Instagram e WhatsApp, sem site próprio identificado.",
+      "A bio apresenta procedimentos e telefone, mas não há calendário online ou páginas próprias por serviço.",
+      "Não há domínio local próprio para consolidar a presença em Contagem e Belo Horizonte."
+    ],
+    "score": 7,
+    "score_reasons": [
+      "+5 ausência de site próprio",
+      "+2 ausência de agendamento por calendário; a rota de agendamento é WhatsApp"
+    ],
+    "evidence": [
+      {
+        "type": "google_maps",
+        "url": "https://www.google.com/maps/search/Dermatol%C3%B3gica+Medicina+Est%C3%A9tica+Contagem",
+        "observation": "Perfil de dermatologista em Contagem com nota 4,9, 25 avaliações, telefone e Instagram como site."
+      },
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/dermatologicaestetica/",
+        "observation": "Perfil público informa Contagem e BH, serviços de dermatologia/estética, Dra. Camila Jaconi e WhatsApp."
+      }
+    ],
+    "confidence": "high"
+  },
+  {
+    "name": "Dra. Gabriela Aquino",
+    "company": "Drª Gabriela Aquino Dermatologia",
+    "category": "Dermatologista",
+    "city": "Belo Horizonte",
+    "state": "Minas Gerais",
+    "google_maps_url": "https://www.google.com/maps/search/Dra.+Gabriela+Aquino+Dermatologista+Belo+Horizonte",
+    "google_rating": 5.0,
+    "google_reviews_count": 95,
+    "website": "https://www.doctoralia.com.br/gabriela-aquino/dermatologista/belo-horizonte",
+    "instagram": null,
+    "linkedin": null,
+    "public_phone": "+55 31 99411-3632",
+    "public_email": null,
+    "whatsapp": null,
+    "website_analysis": {
+      "has_website": true,
+      "first_fold_quality": "Perfil Doctoralia com especialidade, CRM/RQE, botão de agendamento, serviços e opiniões; não foi localizado site próprio.",
+      "clear_value_proposition": true,
+      "authority_signals": true,
+      "services_or_procedures_visible": true,
+      "social_proof": true,
+      "clear_cta": true,
+      "whatsapp_cta": false,
+      "online_booking": true,
+      "mobile_friendly": null,
+      "performance_notes": "Perfil Doctoralia carregou; não foram medidas métricas de performance.",
+      "local_seo_signals": true
+    },
+    "opportunities": [
+      "A presença web ligada ao Maps é Doctoralia; não foi encontrado domínio próprio.",
+      "O perfil oferece agendamento e avaliações, mas posicionamento, campanhas e páginas locais ficam limitados à plataforma.",
+      "Uma página própria poderia complementar o perfil com conteúdo e jornadas por serviço."
+    ],
+    "score": 7,
+    "score_reasons": [
+      "+5 ausência de site próprio; o destino é um perfil Doctoralia",
+      "+2 presença forte no Maps sem domínio próprio: 5,0 em 95 avaliações"
+    ],
+    "evidence": [
+      {
+        "type": "google_maps",
+        "url": "https://www.google.com/maps/search/Dra.+Gabriela+Aquino+Dermatologista+Belo+Horizonte",
+        "observation": "Perfil com nota 5,0, 95 avaliações, telefone e agendamento online; o site listado é Doctoralia."
+      },
+      {
+        "type": "doctoralia",
+        "url": "https://www.doctoralia.com.br/gabriela-aquino/dermatologista/belo-horizonte",
+        "observation": "Perfil mostra CRM-MG 69702/RQE 50476, 338 opiniões, lista de serviços e botão de agendamento/calendário."
+      }
+    ],
+    "confidence": "high"
+  },
+  {
+    "name": "Dra. Lorena Almeida",
+    "company": "Consultório Dermatológico Dra. Lorena Almeida",
+    "category": "Dermatologista",
+    "city": "Contagem",
+    "state": "Minas Gerais",
+    "google_maps_url": "https://www.google.com/maps/search/Dra.+Lorena+Almeida+Dermatologista+Contagem",
+    "google_rating": 4.8,
+    "google_reviews_count": 66,
+    "website": "https://www.dralorenaalmeida.com.br/",
+    "instagram": "https://www.instagram.com/dralorena.almeida/",
+    "linkedin": null,
+    "public_phone": "+55 31 99493-2947",
+    "public_email": null,
+    "whatsapp": "+55 31 99493-2947",
+    "website_analysis": {
+      "has_website": true,
+      "first_fold_quality": "A abertura identifica o consultório e a dermatologista; há CTA Agendar consulta logo após o texto de apresentação.",
+      "clear_value_proposition": true,
+      "authority_signals": true,
+      "services_or_procedures_visible": true,
+      "social_proof": false,
+      "clear_cta": true,
+      "whatsapp_cta": true,
+      "online_booking": false,
+      "mobile_friendly": null,
+      "performance_notes": "Não foram observados erros; não foram medidas métricas de performance.",
+      "local_seo_signals": true
+    },
+    "opportunities": [
+      "O site tem contato e CTA, mas o agendamento depende de conversa por WhatsApp/telefone.",
+      "Não foi encontrada prova social no conteúdo do site inspecionado.",
+      "A proposta e a formação estão descritas; não há calendário público de horários."
+    ],
+    "score": 3,
+    "score_reasons": [
+      "+2 ausência de calendário de agendamento online",
+      "+1 pouca prova social visível no site"
+    ],
+    "evidence": [
+      {
+        "type": "google_maps",
+        "url": "https://www.google.com/maps/search/Dra.+Lorena+Almeida+Dermatologista+Contagem",
+        "observation": "Perfil de dermatologista em Contagem com nota 4,8, 66 avaliações, endereço e telefone."
+      },
+      {
+        "type": "website",
+        "url": "https://www.dralorenaalmeida.com.br/",
+        "observation": "A primeira tela identifica o consultório, descreve atuação clínica e estética e traz link Agendar consulta; o site informa endereço e telefones em Contagem."
+      }
+    ],
+    "confidence": "high"
+  },
+  {
+    "name": "Dr. Rafael de Abreu",
+    "company": "Consultório Dr. Rafael de Abreu",
+    "category": "Dermatologista",
+    "city": "Belo Horizonte",
+    "state": "Minas Gerais",
+    "google_maps_url": "https://www.google.com/maps/search/Dr.+Rafael+de+Abreu+Dermatologista+Belo+Horizonte",
+    "google_rating": 5.0,
+    "google_reviews_count": 88,
+    "website": "https://dermatologiabh.com.br/",
+    "instagram": "https://www.instagram.com/rafadermabh/",
+    "linkedin": null,
+    "public_phone": "+55 31 99113-4447",
+    "public_email": null,
+    "whatsapp": "+55 31 99113-4447",
+    "website_analysis": {
+      "has_website": true,
+      "first_fold_quality": "A abertura apresenta nome, especialidade, CRM/RQE, formação, experiência e CTA para consulta.",
+      "clear_value_proposition": true,
+      "authority_signals": true,
+      "services_or_procedures_visible": true,
+      "social_proof": true,
+      "clear_cta": true,
+      "whatsapp_cta": true,
+      "online_booking": true,
+      "mobile_friendly": null,
+      "performance_notes": "Não foram observados erros; não foram medidas métricas de performance.",
+      "local_seo_signals": true
+    },
+    "opportunities": [
+      "O agendamento online existe por Doctoralia e WhatsApp; não foi observado calendário incorporado no próprio site.",
+      "O site já apresenta formação, avaliações, blog, contato e localização, então não há problema comercial claro de alta prioridade."
+    ],
+    "score": 0,
+    "score_reasons": [],
+    "evidence": [
+      {
+        "type": "google_maps",
+        "url": "https://www.google.com/maps/search/Dr.+Rafael+de+Abreu+Dermatologista+Belo+Horizonte",
+        "observation": "Perfil de dermatologista em Belo Horizonte com nota 5,0, 88 avaliações, site e opção Agendar on-line."
+      },
+      {
+        "type": "website",
+        "url": "https://dermatologiabh.com.br/",
+        "observation": "A primeira dobra apresenta nome, CRM/RQE, formação, especialidade e CTA de WhatsApp; a página também exibe avaliações e link de agendamento Doctoralia."
+      }
+    ],
+    "confidence": "high"
+  },
+  {
+    "name": "Dra. Rosana Rocon",
+    "company": "Consultório Dra. Rosana Rocon",
+    "category": "Dermatologista",
+    "city": "Belo Horizonte",
+    "state": "Minas Gerais",
+    "google_maps_url": "https://www.google.com/maps/search/Dra.+Rosana+Rocon+Dermatologia+Belo+Horizonte",
+    "google_rating": 4.9,
+    "google_reviews_count": 513,
+    "website": "https://www.rosanarocon.com.br/",
+    "instagram": "https://www.instagram.com/rosanarocon_dermato/",
+    "linkedin": null,
+    "public_phone": "+55 31 3656-3038",
+    "public_email": null,
+    "whatsapp": "+55 31 98344-7664",
+    "website_analysis": {
+      "has_website": true,
+      "first_fold_quality": "A primeira tela identifica dermatologia clínica e apresenta navegação por médica, especialidades, tratamentos e contato; WhatsApp aparece fixo.",
+      "clear_value_proposition": true,
+      "authority_signals": true,
+      "services_or_procedures_visible": true,
+      "social_proof": true,
+      "clear_cta": true,
+      "whatsapp_cta": true,
+      "online_booking": false,
+      "mobile_friendly": null,
+      "performance_notes": "Não foram observados erros de funcionamento; o rodapé exibe copyright de 2015. Não foram medidas métricas.",
+      "local_seo_signals": true
+    },
+    "opportunities": [
+      "O site direciona contato por WhatsApp, sem calendário de horários visível.",
+      "O rodapé mantém referência de copyright de 2015; vale revisar atualização editorial e técnica."
+    ],
+    "score": 2,
+    "score_reasons": [
+      "+2 ausência de calendário de agendamento online"
+    ],
+    "evidence": [
+      {
+        "type": "google_maps",
+        "url": "https://www.google.com/maps/search/Dra.+Rosana+Rocon+Dermatologia+Belo+Horizonte",
+        "observation": "Perfil de dermatologista com nota 4,9, 513 avaliações, telefone e site oficial."
+      },
+      {
+        "type": "website",
+        "url": "https://www.rosanarocon.com.br/",
+        "observation": "Site exibe especialidades, tratamentos, formação na UFMG, WhatsApp e avaliações Doctoralia; o rodapé informa direitos reservados a Rosana Rocon - 2015."
+      }
+    ],
+    "confidence": "high"
+  },
+  {
+    "name": "Clínica Flávia Freitas",
+    "company": "Clínica Flávia Freitas",
+    "category": "Dermatologista",
+    "city": "Belo Horizonte",
+    "state": "Minas Gerais",
+    "google_maps_url": "https://www.google.com/maps/search/Cl%C3%ADnica+Fl%C3%A1via+Freitas+Dermatologista+Belo+Horizonte",
+    "google_rating": 4.9,
+    "google_reviews_count": 313,
+    "website": "https://flaviadefreitas.com.br/",
+    "instagram": "https://www.instagram.com/clinicaflaviafreitasdermato/",
+    "linkedin": null,
+    "public_phone": "+55 31 98792-6494",
+    "public_email": null,
+    "whatsapp": "+55 31 98792-6494",
+    "website_analysis": {
+      "has_website": true,
+      "first_fold_quality": "A abertura informa estrutura de atendimento, proposta da clínica e CTA para WhatsApp; menu separa dermatologia, tricologia e estética.",
+      "clear_value_proposition": true,
+      "authority_signals": true,
+      "services_or_procedures_visible": true,
+      "social_proof": true,
+      "clear_cta": true,
+      "whatsapp_cta": true,
+      "online_booking": false,
+      "mobile_friendly": null,
+      "performance_notes": "A página exibiu um texto Carregando em uma seção, mas o conteúdo principal e as páginas de tratamento estavam disponíveis. Não foram medidas métricas.",
+      "local_seo_signals": true
+    },
+    "opportunities": [
+      "O caminho de agendamento é WhatsApp; não foi encontrado calendário de horários visível.",
+      "O perfil do Maps não tem site preenchido, embora Instagram e Linktree conduzam ao domínio próprio; vale alinhar o link no perfil."
+    ],
+    "score": 2,
+    "score_reasons": [
+      "+2 ausência de calendário de agendamento online; o CTA inicia conversa no WhatsApp"
+    ],
+    "evidence": [
+      {
+        "type": "google_maps",
+        "url": "https://www.google.com/maps/search/Cl%C3%ADnica+Fl%C3%A1via+Freitas+Dermatologista+Belo+Horizonte",
+        "observation": "Perfil da clínica em Belo Horizonte com nota 4,9, 313 avaliações, telefone e sem site preenchido no painel do Maps."
+      },
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/clinicaflaviafreitasdermato/",
+        "observation": "Perfil público com cerca de 16,1 mil seguidores; a bio lista CRM/RQE, endereço e link para Linktree."
+      },
+      {
+        "type": "website",
+        "url": "https://flaviadefreitas.com.br/",
+        "observation": "Site tem serviços por especialidade, equipe com CRM/RQE, depoimentos, endereço, telefone e CTAs de WhatsApp."
+      }
+    ],
+    "confidence": "high"
+  },
+  {
+    "name": "Clínica Bella Derme",
+    "company": "Clínica Bella Derme",
+    "category": "Clínica de dermatologia",
+    "city": "Contagem",
+    "state": "Minas Gerais",
+    "google_maps_url": "https://www.google.com/maps/search/Cl%C3%ADnica+Bella+Derme+Contagem",
+    "google_rating": 4.7,
+    "google_reviews_count": 94,
+    "website": "https://clinicabelladerme.com.br/",
+    "instagram": null,
+    "linkedin": null,
+    "public_phone": "+55 31 99783-4406",
+    "public_email": "contato@clinicabelladerme.com.br",
+    "whatsapp": "+55 31 99783-4406",
+    "website_analysis": {
+      "has_website": true,
+      "first_fold_quality": "A abertura explica a proposta da clínica e apresenta tratamentos; há CTA de agendamento por WhatsApp.",
+      "clear_value_proposition": true,
+      "authority_signals": false,
+      "services_or_procedures_visible": true,
+      "social_proof": false,
+      "clear_cta": true,
+      "whatsapp_cta": true,
+      "online_booking": true,
+      "mobile_friendly": null,
+      "performance_notes": "Não foram observados erros; o vídeo incorporado carregou. Não foram medidas métricas de performance.",
+      "local_seo_signals": true
+    },
+    "opportunities": [
+      "A seção Nossos clientes dizem aparece sem depoimentos textuais no conteúdo acessível.",
+      "O site não apresenta credenciais verificáveis de dermatologista na primeira página; o menu remete também a cirurgia plástica e estética.",
+      "Maps e site exibem telefones de contato diferentes; vale padronizar o número principal."
+    ],
+    "score": 2,
+    "score_reasons": [
+      "+1 poucos sinais de autoridade médica individualizada na página inicial",
+      "+1 prova social anunciada por título, sem depoimentos visíveis no conteúdo acessível"
+    ],
+    "evidence": [
+      {
+        "type": "google_maps",
+        "url": "https://www.google.com/maps/search/Cl%C3%ADnica+Bella+Derme+Contagem",
+        "observation": "Perfil de dermatologia em Contagem com nota 4,7, 94 avaliações, telefone e opção Agendar on-line."
+      },
+      {
+        "type": "website",
+        "url": "https://clinicabelladerme.com.br/",
+        "observation": "Site apresenta tratamentos, endereço e e-mail em Contagem, CTA para WhatsApp e seção NOSSOS CLIENTES DIZEM sem depoimentos textuais acessíveis."
+      }
+    ],
+    "confidence": "high"
+  },
+  {
+    "name": "Dra. Patrícia Baggio",
+    "company": "Consultório Dra. Patrícia Baggio",
+    "category": "Dermatologista",
+    "city": "Belo Horizonte",
+    "state": "Minas Gerais",
+    "google_maps_url": "https://www.google.com/maps/search/Dra.+Patr%C3%ADcia+Baggio+Dermatologista+Belo+Horizonte",
+    "google_rating": 5.0,
+    "google_reviews_count": 15,
+    "website": "https://patriciadermatologia.com.br/",
+    "instagram": "https://www.instagram.com/patriciabaggiodermato/",
+    "linkedin": null,
+    "public_phone": "+55 31 98450-2583",
+    "public_email": "patriciabdermatologia@gmail.com",
+    "whatsapp": "+55 31 98450-2583",
+    "website_analysis": {
+      "has_website": true,
+      "first_fold_quality": "A primeira tela mostra nome, Dermatologia e CRM/RQE; a proposta é genérica e o CTA não aparece no primeiro viewport inicial.",
+      "clear_value_proposition": true,
+      "authority_signals": true,
+      "services_or_procedures_visible": true,
+      "social_proof": false,
+      "clear_cta": true,
+      "whatsapp_cta": true,
+      "online_booking": false,
+      "mobile_friendly": null,
+      "performance_notes": "Não foram observados erros; não foram medidas métricas de performance.",
+      "local_seo_signals": true
+    },
+    "opportunities": [
+      "O site tem páginas de tratamentos, mas a abertura não mostra botão de agendamento no primeiro viewport.",
+      "A consulta é marcada por WhatsApp, sem calendário público.",
+      "Não foi encontrada prova social no conteúdo do site inspecionado."
+    ],
+    "score": 3,
+    "score_reasons": [
+      "+2 ausência de calendário de agendamento online",
+      "+1 pouca prova social visível no site"
+    ],
+    "evidence": [
+      {
+        "type": "google_maps",
+        "url": "https://www.google.com/maps/search/Dra.+Patr%C3%ADcia+Baggio+Dermatologista+Belo+Horizonte",
+        "observation": "Perfil com nota 5,0, 15 avaliações, website patriciadermatologia.com.br e link de agendamento por WhatsApp."
+      },
+      {
+        "type": "website",
+        "url": "https://patriciadermatologia.com.br/",
+        "observation": "A primeira dobra mostra marca, Dermatologia e CRM/RQE; o menu leva a tratamentos, tecnologias e localização. O CTA Agendar avaliação aparece ao navegar para a seção de tratamentos."
+      }
+    ],
+    "confidence": "high"
+  },
+  {
+    "name": "Dra. Cristiane Cárcano",
+    "company": "Consultório Dra. Cristiane Cárcano",
+    "category": "Dermatologista",
+    "city": "Nova Lima",
+    "state": "Minas Gerais",
+    "google_maps_url": "https://www.google.com/maps/search/Dra.+Cristiane+C%C3%A1rcano+Nova+Lima+MG",
+    "google_rating": 5.0,
+    "google_reviews_count": 30,
+    "website": "https://dracristianecarcano.com.br/",
+    "instagram": null,
+    "linkedin": null,
+    "public_phone": "+55 31 98466-9742",
+    "public_email": null,
+    "whatsapp": "+55 31 98466-9742",
+    "website_analysis": {
+      "has_website": true,
+      "first_fold_quality": "A abertura identifica dermatologista, CRM/RQE e proposta de cuidado personalizado; há CTA para WhatsApp.",
+      "clear_value_proposition": true,
+      "authority_signals": true,
+      "services_or_procedures_visible": true,
+      "social_proof": false,
+      "clear_cta": true,
+      "whatsapp_cta": true,
+      "online_booking": false,
+      "mobile_friendly": null,
+      "performance_notes": "O conteúdo acessível também expõe links externos sem relação aparente com dermatologia; não foram medidas métricas.",
+      "local_seo_signals": true
+    },
+    "opportunities": [
+      "O agendamento é direcionado ao WhatsApp; não foi encontrado calendário público.",
+      "O site não apresenta avaliações/depoimentos no conteúdo principal inspecionado.",
+      "Na árvore acessível surgem links externos sem relação aparente com a clínica; convém revisar os links publicados."
+    ],
+    "score": 3,
+    "score_reasons": [
+      "+2 ausência de calendário de agendamento online",
+      "+1 pouca prova social visível no site"
+    ],
+    "evidence": [
+      {
+        "type": "google_maps",
+        "url": "https://www.google.com/maps/search/Dra.+Cristiane+C%C3%A1rcano+Nova+Lima+MG",
+        "observation": "Perfil em Nova Lima com nota 5,0, 30 avaliações, telefone e site oficial."
+      },
+      {
+        "type": "website",
+        "url": "https://dracristianecarcano.com.br/",
+        "observation": "Site apresenta CRM/RQE, especialidades, artigos, endereço e agendamento por WhatsApp; não mostra avaliações no conteúdo acessível."
+      }
+    ],
+    "confidence": "high"
+  },
+  {
+    "name": "Dra. Ana Gontijo",
+    "company": "Clínica Ana Gontijo",
+    "category": "Dermatologista / clínica de estética médica",
+    "city": "Nova Lima",
+    "state": "Minas Gerais",
+    "google_maps_url": "https://www.google.com/maps/search/Dra.+Ana+Gontijo+Nova+Lima+MG",
+    "google_rating": 5.0,
+    "google_reviews_count": 94,
+    "website": "https://clinicaanagontijo.com.br/",
+    "instagram": "https://www.instagram.com/dra.anagontijo_/",
+    "linkedin": null,
+    "public_phone": "+55 31 99071-0261",
+    "public_email": null,
+    "whatsapp": "+55 31 99071-0261",
+    "website_analysis": {
+      "has_website": true,
+      "first_fold_quality": "Site identifica a clínica, apresenta tratamentos e tem CTA Agende uma consulta via WhatsApp.",
+      "clear_value_proposition": true,
+      "authority_signals": false,
+      "services_or_procedures_visible": true,
+      "social_proof": true,
+      "clear_cta": true,
+      "whatsapp_cta": true,
+      "online_booking": true,
+      "mobile_friendly": null,
+      "performance_notes": "Três players de vídeo exibiram estado de carregamento durante a inspeção; textos, avaliações e demais seções estavam acessíveis. Sem métricas medidas.",
+      "local_seo_signals": true
+    },
+    "opportunities": [
+      "O site oferece contato por WhatsApp; o agendamento do Maps usa um serviço externo.",
+      "Não foi localizada apresentação de CRM/RQE no conteúdo inicial do site.",
+      "Há um player de vídeo que permaneceu em carregamento durante a inspeção."
+    ],
+    "score": 1,
+    "score_reasons": [
+      "+1 poucos sinais de autoridade profissional verificável na página inicial"
+    ],
+    "evidence": [
+      {
+        "type": "google_maps",
+        "url": "https://www.google.com/maps/search/Dra.+Ana+Gontijo+Nova+Lima+MG",
+        "observation": "Perfil em Nova Lima com nota 5,0, 94 avaliações, telefone, site e link externo de agendamento."
+      },
+      {
+        "type": "website",
+        "url": "https://clinicaanagontijo.com.br/",
+        "observation": "Site apresenta tratamentos, depoimentos, avaliações Google, localização, telefone e canais sociais; os players de vídeo mostraram estado de carregamento."
+      }
+    ],
+    "confidence": "high"
+  },
+  {
+    "name": "Skin House Dermatologia e Wellness",
+    "company": "Skin House Dermatologia e Wellness",
+    "category": "Clínica dermatológica",
+    "city": "Nova Lima",
+    "state": "Minas Gerais",
+    "google_maps_url": "https://www.google.com/maps/search/Skin+House+Dermatologia+Wellness+Nova+Lima",
+    "google_rating": 5.0,
+    "google_reviews_count": 22,
+    "website": "https://skinhouse.com.br/",
+    "instagram": null,
+    "linkedin": null,
+    "public_phone": "+55 31 98252-8742",
+    "public_email": "contato@skinhouse.com.br",
+    "whatsapp": "+55 31 99215-0723",
+    "website_analysis": {
+      "has_website": true,
+      "first_fold_quality": "O site explica o conceito da clínica e os núcleos de atendimento; o contato por WhatsApp e o endereço aparecem mais abaixo.",
+      "clear_value_proposition": true,
+      "authority_signals": true,
+      "services_or_procedures_visible": true,
+      "social_proof": false,
+      "clear_cta": true,
+      "whatsapp_cta": true,
+      "online_booking": false,
+      "mobile_friendly": null,
+      "performance_notes": "Não foram observados erros; não foram medidas métricas de performance.",
+      "local_seo_signals": true
+    },
+    "opportunities": [
+      "O site direciona contato por WhatsApp, sem calendário público de horários.",
+      "Não foram encontrados depoimentos ou avaliações no site inspecionado.",
+      "O telefone do Maps e o WhatsApp do site são diferentes; vale deixar claro qual canal agenda."
+    ],
+    "score": 3,
+    "score_reasons": [
+      "+2 ausência de calendário de agendamento online",
+      "+1 pouca prova social visível no site"
+    ],
+    "evidence": [
+      {
+        "type": "google_maps",
+        "url": "https://www.google.com/maps/search/Skin+House+Dermatologia+Wellness+Nova+Lima",
+        "observation": "Perfil de dermatologia e wellness em Nova Lima com nota 5,0, 22 avaliações, telefone e site."
+      },
+      {
+        "type": "website",
+        "url": "https://skinhouse.com.br/",
+        "observation": "Site lista núcleos de dermatologia, nutrologia, fisioterapia e estética avançada, equipe com CRM/RQE, endereço, e-mail e WhatsApp."
+      }
+    ],
+    "confidence": "high"
+  },
+  {
+    "name": "Dra. Patrícia Lycarião",
+    "company": "DuoClinic / Consultório Dra. Patrícia Lycarião",
+    "category": "Dermatologista",
+    "city": "Nova Lima",
+    "state": "Minas Gerais",
+    "google_maps_url": "https://www.google.com/maps/search/Dra.+Patr%C3%ADcia+Lycari%C3%A3o+Nova+Lima+MG",
+    "google_rating": 5.0,
+    "google_reviews_count": 76,
+    "website": "https://patricialycariao.com.br/",
+    "instagram": "https://www.instagram.com/drapatricia_lycariao/",
+    "linkedin": null,
+    "public_phone": "+55 31 98244-0941",
+    "public_email": null,
+    "whatsapp": "+55 31 98244-0941",
+    "website_analysis": {
+      "has_website": true,
+      "first_fold_quality": "A raiz do domínio abre normalmente com proposta, tratamentos e CTA WhatsApp; o caminho /home/ indicado no Maps retorna 404.",
+      "clear_value_proposition": true,
+      "authority_signals": true,
+      "services_or_procedures_visible": true,
+      "social_proof": true,
+      "clear_cta": true,
+      "whatsapp_cta": true,
+      "online_booking": false,
+      "mobile_friendly": null,
+      "performance_notes": "O endereço do site publicado no Maps (/home/) retorna 404; a raiz do domínio carregou normalmente. Não foram medidas métricas.",
+      "local_seo_signals": true
+    },
+    "opportunities": [
+      "O link do site no Google Maps termina em /home/ e retorna 404, embora a raiz do domínio funcione.",
+      "O agendamento do site é por WhatsApp, sem calendário público.",
+      "O perfil tem 76 avaliações no Maps; corrigir o destino do link evita perder quem clica a partir da ficha."
+    ],
+    "score": 5,
+    "score_reasons": [
+      "+1 problema de funcionamento observável no endereço publicado pelo Maps",
+      "+2 ausência de calendário de agendamento online",
+      "+2 presença forte no Maps em comparação com o destino do link publicado: 5,0 em 76 avaliações"
+    ],
+    "evidence": [
+      {
+        "type": "google_maps",
+        "url": "https://www.google.com/maps/search/Dra.+Patr%C3%ADcia+Lycari%C3%A3o+Nova+Lima+MG",
+        "observation": "Perfil de dermatologista com nota 5,0, 76 avaliações, endereço de site patricialycariao.com.br/home/ e telefone."
+      },
+      {
+        "type": "website",
+        "url": "https://patricialycariao.com.br/home/",
+        "observation": "O endereço de site publicado pelo Maps retorna 404 Not Found."
+      },
+      {
+        "type": "website",
+        "url": "https://patricialycariao.com.br/",
+        "observation": "A raiz do domínio carrega e apresenta tratamentos, credenciais, depoimentos, endereço e CTA de WhatsApp."
+      }
+    ],
+    "confidence": "high"
+  },
+  {
+    "name": "Dra. Maria Tereza Leite Mignacca",
+    "company": "Clínica Ammirare",
+    "category": "Dermatologista",
+    "city": "Belo Horizonte",
+    "state": "Minas Gerais",
+    "google_maps_url": "https://www.google.com/maps/search/Dra.+Maria+Tereza+Leite+Mignacca+Belo+Horizonte",
+    "google_rating": 5.0,
+    "google_reviews_count": 44,
+    "website": "https://ammirareclinica.com.br/",
+    "instagram": "https://www.instagram.com/dramariatereza_dermatologia/",
+    "linkedin": null,
+    "public_phone": "+55 31 97226-4032",
+    "public_email": "ammirareadm@gmail.com",
+    "whatsapp": "+55 31 97226-4032",
+    "website_analysis": {
+      "has_website": true,
+      "first_fold_quality": "O site da clínica usa a mensagem ampla admirar-se/contemple a sua beleza única; dermatologia e equipe aparecem nas seções seguintes.",
+      "clear_value_proposition": false,
+      "authority_signals": true,
+      "services_or_procedures_visible": true,
+      "social_proof": false,
+      "clear_cta": true,
+      "whatsapp_cta": true,
+      "online_booking": false,
+      "mobile_friendly": null,
+      "performance_notes": "Não foram observados erros; não foram medidas métricas de performance.",
+      "local_seo_signals": true
+    },
+    "opportunities": [
+      "A primeira dobra tem posicionamento amplo de beleza e não identifica dermatologia de forma imediata.",
+      "O site oferece WhatsApp e formulário, mas não foi encontrado calendário de horários.",
+      "Não foram encontrados depoimentos ou avaliações no conteúdo inspecionado."
+    ],
+    "score": 5,
+    "score_reasons": [
+      "+2 proposta dermatológica pouco clara na primeira dobra",
+      "+2 ausência de calendário de agendamento online",
+      "+1 pouca prova social visível no site"
+    ],
+    "evidence": [
+      {
+        "type": "google_maps",
+        "url": "https://www.google.com/maps/search/Dra.+Maria+Tereza+Leite+Mignacca+Belo+Horizonte",
+        "observation": "Perfil da Dra. Maria Tereza com nota 5,0, 44 avaliações, telefone e Instagram como site."
+      },
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/dramariatereza_dermatologia/",
+        "observation": "Perfil público identifica médica dermatologista SBD, CRM 44.460/RQE 49.328 e Linktree da Clínica Ammirare."
+      },
+      {
+        "type": "website",
+        "url": "https://ammirareclinica.com.br/",
+        "observation": "O Linktree da clínica aponta ao domínio próprio; o site mostra equipe, serviços, WhatsApp, endereço e formulário."
+      }
+    ],
+    "confidence": "high"
+  },
+  {
+    "name": "Dra. Isadora Magalhães",
+    "company": "Consultório Dra. Isadora Magalhães",
+    "category": "Dermatologista",
+    "city": "Nova Lima",
+    "state": "Minas Gerais",
+    "google_maps_url": "https://www.google.com/maps/search/Dra.+Isadora+Magalh%C3%A3es+Dermatologista+Nova+Lima",
+    "google_rating": 5.0,
+    "google_reviews_count": 73,
+    "website": "https://draisadoramagalhaes.com.br/",
+    "instagram": null,
+    "linkedin": null,
+    "public_phone": "+55 31 99730-1807",
+    "public_email": null,
+    "whatsapp": "+55 31 99730-1807",
+    "website_analysis": {
+      "has_website": true,
+      "first_fold_quality": "A abertura comunica cuidado dermatológico personalizado e CTA; o site informa CRM/RQE e endereço.",
+      "clear_value_proposition": true,
+      "authority_signals": true,
+      "services_or_procedures_visible": false,
+      "social_proof": false,
+      "clear_cta": true,
+      "whatsapp_cta": true,
+      "online_booking": false,
+      "mobile_friendly": null,
+      "performance_notes": "Não foram observados erros; não foram medidas métricas de performance.",
+      "local_seo_signals": true
+    },
+    "opportunities": [
+      "O site apresenta cuidado personalizado, mas não mostra uma lista clara de tratamentos ou procedimentos na página inicial.",
+      "O CTA leva ao WhatsApp; não há calendário de horários.",
+      "Não foi encontrada prova social no site, embora o Maps tenha 73 avaliações."
+    ],
+    "score": 7,
+    "score_reasons": [
+      "+2 principais serviços/procedimentos não aparecem claramente no site inspecionado",
+      "+1 pouca prova social visível no site",
+      "+2 ausência de calendário de agendamento online",
+      "+2 Maps bem estabelecido em comparação com o site sem páginas de serviço: 5,0 em 73 avaliações"
+    ],
+    "evidence": [
+      {
+        "type": "google_maps",
+        "url": "https://www.google.com/maps/search/Dra.+Isadora+Magalh%C3%A3es+Dermatologista+Nova+Lima",
+        "observation": "Perfil de dermatologista em Nova Lima com nota 5,0, 73 avaliações, telefone e site."
+      },
+      {
+        "type": "website",
+        "url": "https://draisadoramagalhaes.com.br/",
+        "observation": "Site mostra cuidado personalizado, CRM-MG 77.637/RQE 62.549, WhatsApp e endereço, mas a página acessível não lista procedimentos específicos ou avaliações."
+      }
+    ],
+    "confidence": "high",
+    "top_problems": [
+      {
+        "problem": "O site comunica a proposta de cuidado, mas não lista tratamentos e procedimentos de forma clara.",
+        "evidence": "A página inicial apresenta mensagem de cuidado personalizado e navegação; não há grade de serviços ou links de procedimentos no conteúdo acessível.",
+        "commercial_angle": "Páginas de serviço podem responder às buscas sobre problemas de pele e direcionar ao contato adequado."
+      },
+      {
+        "problem": "Não há avaliações ou depoimentos no site.",
+        "evidence": "A página apresenta CRM/RQE e endereço, mas não mostra prova social; o Maps tem 73 avaliações.",
+        "commercial_angle": "Levar avaliações públicas para o site pode conectar reputação local à decisão do visitante."
+      },
+      {
+        "problem": "O agendamento depende de WhatsApp, sem calendário.",
+        "evidence": "Os CTAs públicos apontam ao WhatsApp; não foi localizado calendário de horários.",
+        "commercial_angle": "Uma jornada de agendamento estruturada pode diminuir passos para pacientes que chegam por pesquisa."
+      }
+    ]
+  }
+]

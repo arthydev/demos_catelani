@@ -1,16 +1,9 @@
 # Conceitos de landing pages
 
-Quatro protótipos estáticos para os leads classificados como Boa oportunidade. Cada pasta contém uma página independente, estilos próprios, JavaScript sem dependências e o layout de referência gerado com imagegen.
+Cem páginas demonstrativas para profissionais e negócios de Belo Horizonte, Betim, Contagem e Nova Lima. A página inicial agrupa 20 páginas por dia útil, de segunda a sexta.
 
-## Páginas
+Os conceitos usam nove composições e paletas próprias, inspiradas nos protótipos anteriores de dermatologia. Cada página traz um aviso visível de que não é oficial, usa apenas dados públicos de identificação e contato e evita promessas, credenciais, serviços ou depoimentos não confirmados.
 
-- [Dra. Mayra Lino](./dra-mayra-lino/index.html) — [layout](./dra-mayra-lino/layout-concept.png), editorial em tons de argila e ameixa, a partir do posicionamento público “ciência e elegância”.
-- [Dra. Ana Emília Porcaro](./dra-ana-emilia-porcaro/index.html) — [layout](./dra-ana-emilia-porcaro/layout-concept.png), conceito autoral em azul-índigo e pervinca; não foi encontrada uma identidade visual oficial ou site próprio.
-- [Dra. Maisa Malheiros](./dra-maisa-malheiros/index.html) — [layout](./dra-maisa-malheiros/layout-concept.png), conceito Bhiolife em verde profundo e lima, com foco em dermatologia e tricologia.
-- [Clínica Ludmila Pedrosa](./dra-ludmila-pedrosa/index.html) — [layout](./dra-ludmila-pedrosa/layout-concept.png), releitura de alto contraste da presença atual, com a clínica e os tratamentos públicos.
+O CSS compartilhado está em [`shared/professional-pages.css`](./shared/professional-pages.css). O diretório contém somente os arquivos estáticos enviados ao GitHub Pages; o planejamento detalhado e a planilha com os contatos ficam fora da publicação.
 
-Abra o index.html de qualquer pasta em um navegador. Tailwind CSS é carregado pelo Play CDN; fotos editoriais são carregadas de images.unsplash.com. Os botões de contato abrem o WhatsApp ou o discador, sem enviar mensagem automaticamente.
-
-O [índice](./index.html) reúne as quatro páginas. O workflow de GitHub Pages publica somente esta pasta; os arquivos de leads que ficam na raiz do repositório não fazem parte do site.
-
-As páginas são conceitos demonstrativos. Antes de publicar, confirme texto, identidade, dados profissionais, endereço e imagens autorizadas com cada profissional.
+Os quatro protótipos antigos de dermatologia foram preservados. Imagens, dados, endereços e textos devem ser validados pelos respectivos estabelecimentos antes de qualquer uso como canal institucional.

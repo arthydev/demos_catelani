@@ -1,0 +1,515 @@
+{
+  "createdAt": "2026-10-02",
+  "scope": "Referência visual e plano de implementação para as 20 páginas de segunda-feira, L001-L020.",
+  "referenceScreenshots": [
+    {
+      "name": "Dra. Ana Emília Porcaro",
+      "url": "https://arthydev.github.io/demos_catelani/dra-ana-emilia-porcaro/"
+    },
+    {
+      "name": "Clínica Ludmila Pedrosa",
+      "url": "https://arthydev.github.io/demos_catelani/dra-ludmila-pedrosa/"
+    },
+    {
+      "name": "Dra. Maisa Malheiros",
+      "url": "https://arthydev.github.io/demos_catelani/dra-maisa-malheiros/"
+    },
+    {
+      "name": "Dra. Mayra Lino",
+      "url": "https://arthydev.github.io/demos_catelani/dra-mayra-lino/"
+    }
+  ],
+  "sharedVisualPatterns": [
+    "Cabeçalho compacto e navegação curta.",
+    "Hero editorial dividido com título serifado grande, imagem destacada e CTA primário.",
+    "Avaliação encaixada no hero quando a página pode exibi-la.",
+    "Faixa de contato e localização imediatamente após o hero.",
+    "Bloco sobre/consulta com colunas assimétricas.",
+    "Serviços em cartões numerados.",
+    "Processo em três etapas em colunas.",
+    "Localização em painel próprio e CTA final forte."
+  ],
+  "colorLock": "Manter exatamente os valores existentes de --accent, --pale, --detail e --paper em cada lead. As regras novas só referenciam esses tokens e os fundos/cores já existentes; não introduzir outra paleta.",
+  "contentLock": "Preservar copy, telefones, endereços, avaliações verificadas, imagem conceitual e avisos demonstrativos. Não criar depoimentos, contas sociais, especialidades, serviços ou credenciais.",
+  "layoutPlan": "Folha editorial isolada apenas nas 20 páginas de segunda-feira. Cabeçalho compacto; hero dividida com fotografia em formato editorial e cartão público flutuante; faixa de contato logo após a hero; conteúdo assimétrico, cartões numerados, processo em três etapas, localização e CTA de fechamento. Tratamentos de moldura da imagem variam por nicho. Preservar paletas, cópias, telefones, endereços, avaliações e aviso demonstrativo.",
+  "pages": [
+    {
+      "id": "L001",
+      "slug": "consultorio-odontologico-dra-sarah-louzada-dentista--belo-horizonte",
+      "lead": "Consultório Odontológico Dra.Sarah Louzada -Dentista Bairro Salgado Filho - Tratamento de Canal, Ortodontia e Implante dental",
+      "profession": "Dentistas",
+      "image": "assets/hero.webp",
+      "accentOriginal": "#174f54",
+      "heroTreatment": "dental-arch",
+      "pageAdaptation": "Hero editorial em arco, selos sobrepostos e avaliação junto à imagem.",
+      "modules": [
+        "hero",
+        "faixa de contato",
+        "consulta/sobre",
+        "serviços",
+        "benefícios",
+        "processo",
+        "localização",
+        "FAQ",
+        "CTA final",
+        "rodapé demonstrativo"
+      ],
+      "conversionAction": "Preservar o CTA telefônico existente e integrá-lo à faixa pós-hero e ao CTA final."
+    },
+    {
+      "id": "L002",
+      "slug": "psicologa-crislei-de-freitas-betim",
+      "lead": "Psicóloga Crislei de Freitas",
+      "profession": "Psicólogos",
+      "image": "assets/hero.webp",
+      "accentOriginal": "#65495a",
+      "heroTreatment": "psychology-quiet",
+      "pageAdaptation": "Hero em retrato suave, etiqueta de acolhimento e contato sem nota de avaliação.",
+      "modules": [
+        "hero",
+        "faixa de contato",
+        "consulta/sobre",
+        "serviços",
+        "benefícios",
+        "processo",
+        "localização",
+        "FAQ",
+        "CTA final",
+        "rodapé demonstrativo"
+      ],
+      "conversionAction": "Preservar o CTA telefônico existente e integrá-lo à faixa pós-hero e ao CTA final."
+    },
+    {
+      "id": "L003",
+      "slug": "dra-janaina-lasarino-contagem",
+      "lead": "Dra. Janaína Lasarino",
+      "profession": "Fisioterapeutas",
+      "image": "assets/hero.webp",
+      "accentOriginal": "#315773",
+      "heroTreatment": "movement-frame",
+      "pageAdaptation": "Hero com moldura assimétrica e composição que sugere movimento.",
+      "modules": [
+        "hero",
+        "faixa de contato",
+        "consulta/sobre",
+        "serviços",
+        "benefícios",
+        "processo",
+        "localização",
+        "FAQ",
+        "CTA final",
+        "rodapé demonstrativo"
+      ],
+      "conversionAction": "Preservar o CTA telefônico existente e integrá-lo à faixa pós-hero e ao CTA final."
+    },
+    {
+      "id": "L004",
+      "slug": "millene-sena-nutricionista-nova-lima",
+      "lead": "Millene Sena Nutricionista",
+      "profession": "Nutricionistas",
+      "image": "assets/hero.webp",
+      "accentOriginal": "#566337",
+      "heroTreatment": "nutrition-editorial",
+      "pageAdaptation": "Hero de composição editorial, com imagem em moldura retangular e mensagem de rotina.",
+      "modules": [
+        "hero",
+        "faixa de contato",
+        "consulta/sobre",
+        "serviços",
+        "benefícios",
+        "processo",
+        "localização",
+        "FAQ",
+        "CTA final",
+        "rodapé demonstrativo"
+      ],
+      "conversionAction": "Preservar o CTA telefônico existente e integrá-lo à faixa pós-hero e ao CTA final."
+    },
+    {
+      "id": "L005",
+      "slug": "consultorio-de-dermatologia-dr-pablo-fava-belo-horizonte",
+      "lead": "Consultório de Dermatologia Dr Pablo Fava",
+      "profession": "Dermatologistas",
+      "image": "assets/hero.webp",
+      "accentOriginal": "#355d77",
+      "heroTreatment": "dermatology-arch",
+      "pageAdaptation": "Hero em arco com selo de avaliação sobreposto à imagem.",
+      "modules": [
+        "hero",
+        "faixa de contato",
+        "consulta/sobre",
+        "serviços",
+        "benefícios",
+        "processo",
+        "localização",
+        "FAQ",
+        "CTA final",
+        "rodapé demonstrativo"
+      ],
+      "conversionAction": "Preservar o CTA telefônico existente e integrá-lo à faixa pós-hero e ao CTA final."
+    },
+    {
+      "id": "L006",
+      "slug": "dr-marcus-borba-cirurgiao-plastico-e-geral-betim",
+      "lead": "Dr. Marcus Borba - Cirurgião Plástico e Geral",
+      "profession": "Cirurgiões plásticos",
+      "image": "assets/hero.webp",
+      "accentOriginal": "#735341",
+      "heroTreatment": "medical-portrait",
+      "pageAdaptation": "Hero de consulta em moldura editorial, com selo de informação e sem promessa de resultado.",
+      "modules": [
+        "hero",
+        "faixa de contato",
+        "consulta/sobre",
+        "serviços",
+        "benefícios",
+        "processo",
+        "localização",
+        "FAQ",
+        "CTA final",
+        "rodapé demonstrativo"
+      ],
+      "conversionAction": "Preservar o CTA telefônico existente e integrá-lo à faixa pós-hero e ao CTA final."
+    },
+    {
+      "id": "L007",
+      "slug": "fabiana-veloso-advogada-especialista-em-direito-de-f-contagem",
+      "lead": "Fabiana Veloso - Advogada Especialista em Direito de Família e Sucessões",
+      "profession": "Advogados",
+      "image": "assets/hero.webp",
+      "accentOriginal": "#343b43",
+      "heroTreatment": "legal-structure",
+      "pageAdaptation": "Hero retangular e composição sóbria, com indicador profissional sem estrelas ou nota.",
+      "modules": [
+        "hero",
+        "faixa de contato",
+        "consulta/sobre",
+        "serviços",
+        "benefícios",
+        "processo",
+        "localização",
+        "FAQ",
+        "CTA final",
+        "rodapé demonstrativo"
+      ],
+      "conversionAction": "Preservar o CTA telefônico existente e integrá-lo à faixa pós-hero e ao CTA final."
+    },
+    {
+      "id": "L008",
+      "slug": "contako-assessoria-contabil-nova-lima",
+      "lead": "Contako Assessoria Contábil",
+      "profession": "Contadores",
+      "image": "assets/hero.webp",
+      "accentOriginal": "#34535b",
+      "heroTreatment": "accounting-grid",
+      "pageAdaptation": "Hero retangular, linhas editoriais e ênfase em organização do negócio.",
+      "modules": [
+        "hero",
+        "faixa de contato",
+        "consulta/sobre",
+        "serviços",
+        "benefícios",
+        "processo",
+        "localização",
+        "FAQ",
+        "CTA final",
+        "rodapé demonstrativo"
+      ],
+      "conversionAction": "Preservar o CTA telefônico existente e integrá-lo à faixa pós-hero e ao CTA final."
+    },
+    {
+      "id": "L009",
+      "slug": "corretor-de-imoveis-credenciado-caixa-imobiliaria-jo-belo-horizonte",
+      "lead": "Corretor de Imóveis Credenciado Caixa - Imobiliária Jorge Santos Imóveis",
+      "profession": "Corretoras de imóveis",
+      "image": "assets/hero.webp",
+      "accentOriginal": "#765341",
+      "heroTreatment": "real-estate-window",
+      "pageAdaptation": "Hero panorâmico em moldura assimétrica com localidade e contato.",
+      "modules": [
+        "hero",
+        "faixa de contato",
+        "consulta/sobre",
+        "serviços",
+        "benefícios",
+        "processo",
+        "localização",
+        "FAQ",
+        "CTA final",
+        "rodapé demonstrativo"
+      ],
+      "conversionAction": "Preservar o CTA telefônico existente e integrá-lo à faixa pós-hero e ao CTA final."
+    },
+    {
+      "id": "L010",
+      "slug": "lagares-machado-odontologia-betim",
+      "lead": "Lagares Machado Odontologia",
+      "profession": "Dentistas",
+      "image": "assets/hero.webp",
+      "accentOriginal": "#174f54",
+      "heroTreatment": "dental-arch",
+      "pageAdaptation": "Hero editorial em arco, selos sobrepostos e avaliação junto à imagem.",
+      "modules": [
+        "hero",
+        "faixa de contato",
+        "consulta/sobre",
+        "serviços",
+        "benefícios",
+        "processo",
+        "localização",
+        "FAQ",
+        "CTA final",
+        "rodapé demonstrativo"
+      ],
+      "conversionAction": "Preservar o CTA telefônico existente e integrá-lo à faixa pós-hero e ao CTA final."
+    },
+    {
+      "id": "L011",
+      "slug": "caroline-pimenta-psicologa-para-adultos-em-contagem--contagem",
+      "lead": "Caroline Pimenta Psicóloga para ADULTOS em Contagem - Ansiedade e Depressão",
+      "profession": "Psicólogos",
+      "image": "assets/hero.webp",
+      "accentOriginal": "#65495a",
+      "heroTreatment": "psychology-quiet",
+      "pageAdaptation": "Hero em retrato suave, etiqueta de acolhimento e contato sem nota de avaliação.",
+      "modules": [
+        "hero",
+        "faixa de contato",
+        "consulta/sobre",
+        "serviços",
+        "benefícios",
+        "processo",
+        "localização",
+        "FAQ",
+        "CTA final",
+        "rodapé demonstrativo"
+      ],
+      "conversionAction": "Preservar o CTA telefônico existente e integrá-lo à faixa pós-hero e ao CTA final."
+    },
+    {
+      "id": "L012",
+      "slug": "animus-clinica-pilates-fisioterapia-e-treinamento-fu-nova-lima",
+      "lead": "Animus Clínica - Pilates, Fisioterapia e Treinamento Funcional",
+      "profession": "Fisioterapeutas",
+      "image": "assets/hero.webp",
+      "accentOriginal": "#315773",
+      "heroTreatment": "movement-frame",
+      "pageAdaptation": "Hero com moldura assimétrica e composição que sugere movimento.",
+      "modules": [
+        "hero",
+        "faixa de contato",
+        "consulta/sobre",
+        "serviços",
+        "benefícios",
+        "processo",
+        "localização",
+        "FAQ",
+        "CTA final",
+        "rodapé demonstrativo"
+      ],
+      "conversionAction": "Preservar o CTA telefônico existente e integrá-lo à faixa pós-hero e ao CTA final."
+    },
+    {
+      "id": "L013",
+      "slug": "raiz-do-nutrir-consultas-nutricionais-belo-horizonte",
+      "lead": "Raiz do Nutrir - Consultas Nutricionais",
+      "profession": "Nutricionistas",
+      "image": "assets/hero.webp",
+      "accentOriginal": "#566337",
+      "heroTreatment": "nutrition-editorial",
+      "pageAdaptation": "Hero de composição editorial, com imagem em moldura retangular e mensagem de rotina.",
+      "modules": [
+        "hero",
+        "faixa de contato",
+        "consulta/sobre",
+        "serviços",
+        "benefícios",
+        "processo",
+        "localização",
+        "FAQ",
+        "CTA final",
+        "rodapé demonstrativo"
+      ],
+      "conversionAction": "Preservar o CTA telefônico existente e integrá-lo à faixa pós-hero e ao CTA final."
+    },
+    {
+      "id": "L014",
+      "slug": "dra-fernanda-queiroz-dermatologista-betim",
+      "lead": "Dra. Fernanda Queiroz Dermatologista",
+      "profession": "Dermatologistas",
+      "image": "assets/hero.webp",
+      "accentOriginal": "#355d77",
+      "heroTreatment": "dermatology-arch",
+      "pageAdaptation": "Hero em arco com selo de avaliação sobreposto à imagem.",
+      "modules": [
+        "hero",
+        "faixa de contato",
+        "consulta/sobre",
+        "serviços",
+        "benefícios",
+        "processo",
+        "localização",
+        "FAQ",
+        "CTA final",
+        "rodapé demonstrativo"
+      ],
+      "conversionAction": "Preservar o CTA telefônico existente e integrá-lo à faixa pós-hero e ao CTA final."
+    },
+    {
+      "id": "L015",
+      "slug": "dr-roney-campos-contagem",
+      "lead": "Dr. Roney Campos",
+      "profession": "Cirurgiões plásticos",
+      "image": "assets/hero.webp",
+      "accentOriginal": "#735341",
+      "heroTreatment": "medical-portrait",
+      "pageAdaptation": "Hero de consulta em moldura editorial, com selo de informação e sem promessa de resultado.",
+      "modules": [
+        "hero",
+        "faixa de contato",
+        "consulta/sobre",
+        "serviços",
+        "benefícios",
+        "processo",
+        "localização",
+        "FAQ",
+        "CTA final",
+        "rodapé demonstrativo"
+      ],
+      "conversionAction": "Preservar o CTA telefônico existente e integrá-lo à faixa pós-hero e ao CTA final."
+    },
+    {
+      "id": "L016",
+      "slug": "ingrid-marques-advocacia-previdenciaria-nova-lima",
+      "lead": "Ingrid Marques Advocacia Previdenciária",
+      "profession": "Advogados",
+      "image": "assets/hero.webp",
+      "accentOriginal": "#343b43",
+      "heroTreatment": "legal-structure",
+      "pageAdaptation": "Hero retangular e composição sóbria, com indicador profissional sem estrelas ou nota.",
+      "modules": [
+        "hero",
+        "faixa de contato",
+        "consulta/sobre",
+        "serviços",
+        "benefícios",
+        "processo",
+        "localização",
+        "FAQ",
+        "CTA final",
+        "rodapé demonstrativo"
+      ],
+      "conversionAction": "Preservar o CTA telefônico existente e integrá-lo à faixa pós-hero e ao CTA final."
+    },
+    {
+      "id": "L017",
+      "slug": "fm-contador-escritorio-de-contabilidade-em-belo-hori-belo-horizonte",
+      "lead": "FM Contador – Escritório de Contabilidade em Belo Horizonte",
+      "profession": "Contadores",
+      "image": "assets/hero.webp",
+      "accentOriginal": "#34535b",
+      "heroTreatment": "accounting-grid",
+      "pageAdaptation": "Hero retangular, linhas editoriais e ênfase em organização do negócio.",
+      "modules": [
+        "hero",
+        "faixa de contato",
+        "consulta/sobre",
+        "serviços",
+        "benefícios",
+        "processo",
+        "localização",
+        "FAQ",
+        "CTA final",
+        "rodapé demonstrativo"
+      ],
+      "conversionAction": "Preservar o CTA telefônico existente e integrá-lo à faixa pós-hero e ao CTA final."
+    },
+    {
+      "id": "L018",
+      "slug": "jfranciscoimoveis-corretor-de-imoveis-betim",
+      "lead": "Jfranciscoimóveis - Corretor de Imoveis",
+      "profession": "Corretoras de imóveis",
+      "image": "assets/hero.webp",
+      "accentOriginal": "#765341",
+      "heroTreatment": "real-estate-window",
+      "pageAdaptation": "Hero panorâmico em moldura assimétrica com localidade e contato.",
+      "modules": [
+        "hero",
+        "faixa de contato",
+        "consulta/sobre",
+        "serviços",
+        "benefícios",
+        "processo",
+        "localização",
+        "FAQ",
+        "CTA final",
+        "rodapé demonstrativo"
+      ],
+      "conversionAction": "Preservar o CTA telefônico existente e integrá-lo à faixa pós-hero e ao CTA final."
+    },
+    {
+      "id": "L019",
+      "slug": "dentista-ivone-barbosa-contagem",
+      "lead": "Dentista Ivone Barbosa",
+      "profession": "Dentistas",
+      "image": "assets/hero.webp",
+      "accentOriginal": "#174f54",
+      "heroTreatment": "dental-arch",
+      "pageAdaptation": "Hero editorial em arco, selos sobrepostos e avaliação junto à imagem.",
+      "modules": [
+        "hero",
+        "faixa de contato",
+        "consulta/sobre",
+        "serviços",
+        "benefícios",
+        "processo",
+        "localização",
+        "FAQ",
+        "CTA final",
+        "rodapé demonstrativo"
+      ],
+      "conversionAction": "Preservar o CTA telefônico existente e integrá-lo à faixa pós-hero e ao CTA final."
+    },
+    {
+      "id": "L020",
+      "slug": "psicologa-emanuele-simoes-nova-lima",
+      "lead": "Psicóloga Emanuele Simões",
+      "profession": "Psicólogos",
+      "image": "assets/hero.webp",
+      "accentOriginal": "#65495a",
+      "heroTreatment": "psychology-quiet",
+      "pageAdaptation": "Hero em retrato suave, etiqueta de acolhimento e contato sem nota de avaliação.",
+      "modules": [
+        "hero",
+        "faixa de contato",
+        "consulta/sobre",
+        "serviços",
+        "benefícios",
+        "processo",
+        "localização",
+        "FAQ",
+        "CTA final",
+        "rodapé demonstrativo"
+      ],
+      "conversionAction": "Preservar o CTA telefônico existente e integrá-lo à faixa pós-hero e ao CTA final."
+    }
+  ],
+  "referenceCapture": {
+    "method": "CUA no Chrome; sequência de capturas de viewport ao rolar cada referência, da hero até o rodapé.",
+    "coverage": [
+      "hero e navegação",
+      "consulta/sobre",
+      "serviços",
+      "galeria e avaliações",
+      "processo",
+      "localização",
+      "CTA e rodapé"
+    ],
+    "urls": [
+      "https://arthydev.github.io/demos_catelani/dra-ana-emilia-porcaro/",
+      "https://arthydev.github.io/demos_catelani/dra-ludmila-pedrosa/",
+      "https://arthydev.github.io/demos_catelani/dra-maisa-malheiros/",
+      "https://arthydev.github.io/demos_catelani/dra-mayra-lino/"
+    ]
+  }
+}
